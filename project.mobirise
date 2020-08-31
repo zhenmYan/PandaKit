@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "PandaKit",
+    "name": "My Site-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -40,7 +40,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 24,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.0.29",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -48,8 +48,9 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
+    "cookiesAlert": false,
     "gdpr": false,
-    "cookiesAlert": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
